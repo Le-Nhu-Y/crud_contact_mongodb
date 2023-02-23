@@ -1,0 +1,1 @@
+{"version":3,"file":"contact.model.js","sourceRoot":"","sources":["../../../src/schemas/contact.model.ts"],"names":[],"mappings":";;;AAAA,uCAAsC;AAUtC,MAAM,aAAa,GAAG,IAAI,iBAAM,CAAW;IACvC,QAAQ,EAAC,MAAM;IACf,OAAO,EAAC,MAAM;IACd,KAAK,EAAC,MAAM;IACZ,KAAK,EAAC,MAAM;CACf,CAAC,CAAA;AAEF,MAAM,OAAO,GAAC,IAAA,gBAAK,EAAW,SAAS,EAAC,aAAa,CAAC,CAAC;AAC/C,0BAAO"}
